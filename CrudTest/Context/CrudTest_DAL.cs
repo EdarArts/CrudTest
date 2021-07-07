@@ -8,7 +8,7 @@ namespace CrudTest.Context
 {
     public class CrudTest_DAL
     {
-        string connectionString = "Data Source = DESKTOP-6VVSSAO ; Initial Catalog=CrudTestDB; Integrated Security=SSPI; User ID = edararts; Password=leo123;";
+        readonly string connectionString = "Data Source = DESKTOP-6VVSSAO ; Initial Catalog=CrudTestDB; Integrated Security=SSPI; User ID = edararts; Password=leo123;";
         /// <summary>
         /// Este metodo ayuda a obtener la lista de todos los users
         /// </summary>
@@ -51,7 +51,7 @@ namespace CrudTest.Context
                     CommandType = CommandType.StoredProcedure
                 };
 
-                cmd.Parameters.AddWithValue("@Name", users.Nombre);
+                cmd.Parameters.AddWithValue("@Nombre", users.Nombre);
                 cmd.Parameters.AddWithValue("@Apellido", users.Apellido);
                 cmd.Parameters.AddWithValue("@Email", users.Email);
 
@@ -75,7 +75,7 @@ namespace CrudTest.Context
                 };
 
                 cmd.Parameters.AddWithValue("@Id", users.Id);
-                cmd.Parameters.AddWithValue("@Name", users.Nombre);
+                cmd.Parameters.AddWithValue("@Nombre", users.Nombre);
                 cmd.Parameters.AddWithValue("@Apellido", users.Apellido);
                 cmd.Parameters.AddWithValue("@Email", users.Email);
 

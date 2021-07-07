@@ -1,7 +1,6 @@
 ﻿using CrudTest.Context;
 using CrudTest.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http;
 using System.Collections.Generic;
 using System.Linq;
 

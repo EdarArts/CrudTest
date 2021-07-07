@@ -2,7 +2,7 @@
 
 Esta es una prueba de CRUD utilizando ASP.Net Core, usando Store Procedures
 
-![Create](/CrudeTest/Images/create 1.jpg)
+![Create](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/create%201.JPG)
 
 ![Read](/CrudeTest/Images/Details 2.jpg)
 

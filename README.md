@@ -4,12 +4,12 @@ Esta es una prueba de CRUD utilizando ASP.Net Core, usando Store Procedures
 
 ![Create](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/create%201.JPG)
 
-![Read](/CrudeTest/Images/Details 2.jpg)
+![Read](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/Details.JPG)
 
-![Update](/CrudeTest/Images/edit 1.jpg)
+![Update](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/edit%201.JPG)
 
-![Update](/CrudeTest/Images/edit 2.jpg)
+![Update](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/edit%202.JPG)
 
-![Delete](/CrudeTest/Images/Delete 1.jpg)
+![Delete](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/Delete%201.JPG)
 
-![Delete](/CrudeTest/Images/Delete 2.jpg)
+![Delete](https://github.com/EdarArts/CrudTest/blob/master/CrudTest/Images/Delete%202.JPG)
